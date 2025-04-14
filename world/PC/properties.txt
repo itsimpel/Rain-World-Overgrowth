@@ -1,0 +1,4 @@
+
+Room Setting Templates: Inside, Outside, Greenhouse
+Subregion: Purification Conduits
+Subregion: Greenhouse
