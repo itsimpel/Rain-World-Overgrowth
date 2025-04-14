@@ -1,0 +1,3 @@
+Template: pc_settingstemplate_outside
+DangerType: Flood
+Grime: 0.1521739

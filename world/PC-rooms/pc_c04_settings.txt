@@ -1,0 +1,3 @@
+Template: pc_settingstemplate_outside
+Effects: WaterDepth-0.06521739-50-50, 
+PlacedObjects: FluxWaterfall><1320><640><4~0.5~D~-3~0, FluxWaterfall><1560><640><4~0.5~D~-3~0, FluxDrain><1320><60><4~0.5~D~0~0, FluxDrain><1560><60><4~0.5~D~0~0, FluxDrain><1800><60><4~0.5~D~0~0, FluxWaterfall><1800><640><4~0.5~D~-3~0, WaterCycleTop><1267.294><362.4451><, WaterCycleBottom><1297.405><59.62619><, 

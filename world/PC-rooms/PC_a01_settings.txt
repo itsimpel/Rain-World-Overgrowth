@@ -1,2 +1,5 @@
-Template: PC_SettingsTemplate_Outside
+Template: pc_settingstemplate_outside
+DangerType: Flood
+Grime: 0.2608696
+PlacedObjects: ExitSymbolHidden><725.8259><44.44791><, 
 FadePalette: 55, 0.1195652

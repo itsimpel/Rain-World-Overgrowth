@@ -1,0 +1,3 @@
+Grime: 0.1304348
+PlacedObjects: FluxWaterfall><220><560><4~0.5~D~-3~0, FluxWaterfall><780><560><4~0.5~D~-3~0, FluxDrain><220><60><4~0.5~D~0~0, FluxDrain><500><60><4~0.5~D~0~0, FluxDrain><780><60><4~0.5~D~0~0, FluxWaterfall><500><600><4~0.5~D~-3~0, WaterCycleTop><159.3558><417.8613><, WaterCycleBottom><186.5507><138.7673><, 
+FadePalette: 55, 0.1086956

@@ -1,0 +1,2 @@
+PlacedObjects: FluxWaterfall><340><1580><3~0.5~D~0~0, FluxWaterfall><540><1580><3~0.5~D~0~0, FluxWaterfall><440><1580><3~0.5~D~0~0, FluxDrain><340><520><3~0.5~D~0~0, FluxDrain><440><520><3~0.5~D~0~0, FluxDrain><540><520><3~0.5~D~0~0, WaterCycleBottom><311.5985><541.1741><, WaterCycleTop><316.9211><1229.184><, 
+FadePalette: 55, 0.1304348, 0.1956522

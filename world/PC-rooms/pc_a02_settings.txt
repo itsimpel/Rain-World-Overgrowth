@@ -1,2 +1,4 @@
-Template: PC_SettingsTemplate_Outside
+Template: pc_settingstemplate_outside
 Palette: 5
+PlacedObjects: DangleFruit><326.4445><473.4531><0~0~2~3, 
+FadePalette: 55, 0.1195652

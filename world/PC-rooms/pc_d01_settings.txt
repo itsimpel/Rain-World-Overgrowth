@@ -1,3 +1,5 @@
-Template: PC_SettingsTemplate_Outside
+Template: pc_settingstemplate_outside
 Palette: 5
-FadePalette: 74, 0.3515628, 0.4606063, 0.249397, 0.4559613
+PlacedObjects: AirPocket><119.5626><518.0698><828~880~30~30~Y~2, DangleFruit><1614.898><1178.866><0~0~2~3, DangleFruit><1583.357><1201.14><-233~43~2~3, 
+FadePalette: 55, 0.1124324, 0.1127802, 0.1189622, 0.1190048
+WetTerrain: OFF

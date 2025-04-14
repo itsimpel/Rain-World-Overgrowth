@@ -1,4 +1,4 @@
-
 Room Setting Templates: Inside, Outside, Greenhouse
-Subregion: Purification Conduits
+Subregion: Coolant Ducts
+Subregion: Coolant Ducts (Vats)
 Subregion: Greenhouse

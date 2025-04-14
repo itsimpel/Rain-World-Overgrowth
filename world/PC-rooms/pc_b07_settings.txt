@@ -1,0 +1,1 @@
+PlacedObjects: FluxWaterfall><500><680><4~0.5~D~0~0, FluxWaterfall><620><680><4~0.5~D~0~0, FluxDrain><500><40><4~0.5~D~0~0, FluxDrain><620><40><4~0.5~D~0~0, FluxWaterfall><1480><680><4~0.5~D~0~0, FluxWaterfall><1360><680><4~0.5~D~0~0, FluxDrain><1480><40><4~0.5~D~0~0, FluxDrain><1360><40><4~0.5~D~0~0, WaterCycleTop><1326.45><461.7512><, WaterCycleBottom><1334.871><112.9091><, 

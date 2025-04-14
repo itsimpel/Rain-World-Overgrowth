@@ -1,0 +1,3 @@
+Template: pc_settingstemplate_greenhouse
+Palette: 1165
+FadePalette: 5, 0.3478261

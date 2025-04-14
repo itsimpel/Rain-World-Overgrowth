@@ -4,19 +4,19 @@ RainIntensity: 1
 RumbleIntensity: 1
 WaveSpeed: 0.75
 WaveLength: 0.5
-WaveAmplitude: 0.02319966
+WaveAmplitude: 0.04493879
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0
-Grime: 0.2029976
+Grime: 0.1086956
 BkgDroneVolume: 0
 BkgDroneNoThreatVolume: 0
 RandomItemDensity: 0.5
 RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
-Palette: 6
+Palette: 1165
 EffectColorA: 2
 EffectColorB: 7
 Effects: WaterDepth-0.1043986-60-60, Fog-0.2841966-50-50, HeatWave-0.255197-347.2117-24.9211, DirtyWater-0.3189963-30-30, Flies-0.2667969-20-20, Ant-0.185598-40-40, 
 AmbientSounds: OMNI><SO_WAT-Pour.ogg><642.8544><549.8871><0.349202><1, OMNI><SO_WAT-LightFlow.ogg><707.5506><482.7657><0.3724007><1, OMNI><SO_WAT-DripTap.ogg><783.4155><393.6813><0.389801><1, OMNI><waterGurgleLOOP3.wav><680.2375><322.2505><0.4304014><1, OMNI><SO_SFX-Corrosion.ogg><814.1548><551.3766><0.4246004><1, 
-FadePalette: 74, 0.7829908
+FadePalette: 74, 0

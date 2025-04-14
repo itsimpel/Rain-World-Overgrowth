@@ -1,0 +1,4 @@
+Template: pc_settingstemplate_outside
+Grime: 0.2065217
+PlacedObjects: DangleFruit><443.8005><1258.765><0~0~2~3, DangleFruit><415.0494><1241.556><0~0~2~3, 
+FadePalette: 55, 0.1391983, 0.1217986

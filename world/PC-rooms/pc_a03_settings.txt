@@ -1,3 +1,5 @@
-Template: PC_SettingsTemplate_Outside
+Template: pc_settingstemplate_outside
+DangerType: Flood
 EffectColorA: 2
 EffectColorB: 7
+FadePalette: 55, 0.1304348

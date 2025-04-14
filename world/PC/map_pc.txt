@@ -1,26 +1,70 @@
-PC_A02: -531><73.5><0><-70><0><Purification Conduits
-PC_B01: -690><114><40><-196><0><Purification Conduits
-PC_C01: -366><208.5><80><-150><0><Purification Conduits
-PC_A01: -30><211.5><0><-70><0><Purification Conduits
-PC_D01: -291><0><0><-152><0><Purification Conduits
-PC_C02: 274.5><196.5><0><-70><0><Purification Conduits
-PC_A03: -12><327><0><-70><0><Purification Conduits
-PC_GH01: -36><-40.5><0><-70><0><Greenhouse
-PC_GH02: 69><-52.5><40><-110><0><Greenhouse
-PC_GH03: -105><40.5><0><-70><0><
-PC_S01: -36><-54><0><-70><1><Greenhouse
-PC_GH04: 378><-49.5><0><-70><0><Greenhouse
-OffScreenDen_PC: 438><93><0><-20><0><
-PC_GH05: 72><-39><0><-162><1><Greenhouse
+PC_A02: -531><105><-402><32><0><Coolant Ducts
+PC_D01: -307.5><30><-305><-56><0><Coolant Ducts
+PC_C02: 255><231><12><116><0><Coolant Ducts
+PC_A03: -24><355.5><-64><199><0><Coolant Ducts
+PC_C01: -351><241.5><-396><123><0><Coolant Ducts
+PC_A01: -33><243><-70><124><0><Coolant Ducts
+PC_B02: -825><279><-598><110><0><Coolant Ducts
+PC_B01: -681><147><-502><20><0><Coolant Ducts
+PC_A05: 579><231><338><116><0><Coolant Ducts
+PC_D02: 486><390><226><184><0><Coolant Ducts
+PC_A07: -39><96><8><22><0><Coolant Ducts
+PC_B04: -39><12><-90><-64><1><Coolant Ducts
+PC_A06: 726><463.5><436><271><0><Coolant Ducts
+PC_A08: -201><-12><-232><-142><1><Coolant Ducts
+PC_B03: 799.5><349.5><435><195><0><Coolant Ducts
+PC_A09: 267><345><130><192><0><Coolant Ducts
+PC_B05: 187.5><487.5><18><360><1><Coolant Ducts
+PC_C03: 141><457.5><-62><267><0><Coolant Ducts
+PC_S02: 426><505.5><240><366><1><
+PC_S03: -681><364.5><-502><205><0><
+PC_A10: -36><-18><-78><-144><0><Coolant Ducts
+PC_B06: 120><-111><66><-216><1><Coolant Ducts
+PC_C04: 285><90><122><12><1><Coolant Ducts
+PC_F01: -222><-195><-304><-328><1><Coolant Ducts
+PC_A11: 303><193.5><154><91><1><
+PC_B07: 355.5><-49.5><174><-74><1><
+PC_B08: -300><396><-248><182><0><
+PC_A12: -162><471><-156><276><0><
+PC_B09: 240><-274.5><0><-70><0><
+OffScreenDen_PC: -402><630><-332><410><0><
+PC_D03: -687><-378><0><-70><0><
 Connection: PC_A02,PC_B01,10,11,43,20,3,0
 Connection: PC_A02,PC_D01,38,11,6,61,3,2
-Connection: PC_B01,PC_C01,41,60,4,13,0,2
+Connection: PC_D01,PC_A07,97,62,4,23,0,2
+Connection: PC_D01,PC_A10,100,23,13,11,0,3
+Connection: PC_D01,PC_F01,8,8,8,64,3,1
+Connection: PC_C02,PC_A05,126,26,6,13,1,2
+Connection: PC_C02,PC_A11,126,9,37,28,2,0
+Connection: PC_C02,PC_A01,13,9,40,10,3,3
+Connection: PC_A03,PC_C03,24,32,7,12,0,3
+Connection: PC_A03,PC_A01,25,2,36,26,2,0
+Connection: PC_C01,PC_B08,78,29,17,9,0,3
+Connection: PC_C01,PC_B01,4,13,41,60,2,0
 Connection: PC_C01,PC_A01,152,13,6,10,0,3
-Connection: PC_A01,PC_A03,36,26,25,2,0,2
-Connection: PC_A01,PC_C02,40,10,13,9,3,3
-Connection: PC_D01,PC_GH03,97,62,19,30,0,2
-Connection: PC_GH01,PC_GH03,16,21,39,12,1,3
-Connection: PC_GH01,PC_GH02,28,21,4,27,1,2
-Connection: PC_GH02,PC_GH04,38,20,4,26,0,2
-Connection: PC_GH02,PC_S01,4,5,34,21,2,0
-Connection: PC_GH04,PC_GH05,4,7,34,9,2,0
+Connection: PC_A01,PC_B04,36,2,28,68,0,0
+Connection: PC_B02,PC_S03,35,62,13,15,0,2
+Connection: PC_B02,PC_B01,44,15,10,70,0,2
+Connection: PC_A05,PC_D02,29,31,68,3,0,3
+Connection: PC_A05,PC_B03,45,19,8,7,0,3
+Connection: PC_D02,PC_A06,92,65,8,22,0,2
+Connection: PC_D02,PC_A09,8,24,30,29,1,1
+Connection: PC_A07,PC_C04,49,23,12,21,0,2
+Connection: PC_A07,PC_A08,4,9,41,24,2,0
+Connection: PC_A07,PC_A10,49,9,39,21,0,0
+Connection: PC_B04,PC_A08,23,12,41,10,2,0
+Connection: PC_B04,PC_F01,43,7,152,64,3,1
+Connection: PC_A06,PC_B03,38,10,16,25,0,1
+Connection: PC_A09,PC_B05,16,29,14,9,1,0
+Connection: PC_A09,PC_C03,23,29,148,12,1,3
+Connection: PC_B05,PC_S02,97,22,4,16,0,2
+Connection: PC_B05,PC_C03,97,15,138,22,0,1
+Connection: PC_C03,PC_A12,4,21,40,15,2,1
+Connection: PC_A10,PC_B06,39,15,6,69,0,2
+Connection: PC_B06,PC_B07,40,69,4,26,0,2
+Connection: PC_B06,PC_F01,18,4,152,11,3,0
+Connection: PC_B06,PC_B09,28,4,15,26,3,1
+Connection: PC_C04,PC_A11,114,27,31,5,1,0
+Connection: PC_F01,PC_D03,7,4,185,21,3,0
+Connection: PC_A11,PC_B07,16,5,51,13,2,1
+Connection: PC_B08,PC_A12,41,53,7,5,3,3

@@ -1,1 +1,2 @@
-Template: PC_SettingsTemplate_Outside
+DangerType: Flood
+FadePalette: 55, 0.1304348, 0.1195652, 0.1086956

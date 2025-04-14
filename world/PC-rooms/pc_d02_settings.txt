@@ -1,0 +1,6 @@
+Template: pc_settingstemplate_outside
+DangerType: Flood
+Grime: 0.06521739
+Palette: 5
+PlacedObjects: AirPocket><1597.81><64.06229><365~446~712~-186~Y~134, AirPocket><87.1875><104.0696><1086~461~30~30~Y~114, 
+FadePalette: 55, 0.1413043, 0.1521739, 0.09782609, 0.1086956
