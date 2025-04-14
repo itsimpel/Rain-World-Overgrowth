@@ -1,0 +1,3 @@
+Template: SX_SettingsTemplate_Inside
+Effects: Ant-0-20-20, Wasp-0-276-76, 
+FadePalette: 6, 0.8043478, 0.6086956, 1

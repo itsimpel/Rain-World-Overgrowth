@@ -1,0 +1,4 @@
+Template: SX_SettingsTemplate_Outside
+EffectColorA: 8
+EffectColorB: 2
+FadePalette: 54, 0.5, 0.5, 0.5, 0.5

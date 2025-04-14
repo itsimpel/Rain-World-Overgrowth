@@ -1,0 +1,5 @@
+Template: SX_SettingsTemplate_Outside
+Effects: SkyBloom-1-20-20, 
+FadePalette: 54, 0.5
+BackgroundOffset: 0,326.0869
+BackgroundType: AtC_Default_MSC

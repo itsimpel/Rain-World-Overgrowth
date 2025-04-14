@@ -1,0 +1,5 @@
+Template: SX_SettingsTemplate_Outside
+Effects: Ant-0.326087-50-50, SkyBloom-1-20-20, 
+PlacedObjects: EEGhostSpot><229.2033><2623.555><, DataPearl><292.5679><1045.417><0~0~0~0~Misc~0, UniqueDataPearl><768.653><1049.121><0~0~0~0~Misc~0, 
+FadePalette: 54, 0.5, 0.5, 0.5, 0.5
+BackgroundOffset: 0,217.3913

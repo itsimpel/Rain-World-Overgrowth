@@ -1,0 +1,2 @@
+FadePalette: 5, 0, 0.2065217, 0.3043478, 0.5
+WetTerrain: OFF

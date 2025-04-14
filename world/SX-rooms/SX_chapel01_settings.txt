@@ -1,0 +1,6 @@
+Template: SX_SettingsTemplate_Outside
+Palette: 54
+EffectColorA: 3
+EffectColorB: 2
+Effects: SkyBloom-1-299-106, 
+FadePalette: 95, 0.6086956, 0.6086956

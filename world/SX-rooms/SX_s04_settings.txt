@@ -1,0 +1,3 @@
+Template: SX_SettingsTemplate_Outside
+BackgroundOffset: 0,326.0869
+BackgroundType: AtC_Default_MSC

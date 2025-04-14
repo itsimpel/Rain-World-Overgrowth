@@ -1,0 +1,4 @@
+Grime: 0.1521739
+Palette: 95
+Effects: Darkness-0.3043478-20-20, 
+FadePalette: 54, 0.5

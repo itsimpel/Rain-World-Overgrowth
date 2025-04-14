@@ -1,0 +1,2 @@
+Palette: 6
+PlacedObjects: DangleFruit><139.1936><413.4498><0~0~2~3, DangleFruit><270.0707><361.6252><0~0~2~3, DangleFruit><182.1323><398.4><0~0~2~3, 
