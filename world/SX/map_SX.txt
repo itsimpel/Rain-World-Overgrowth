@@ -1,0 +1,143 @@
+SX_B02: -1320><-375><-1010><-306><1><Sunbathed Cathedral
+SX_CHAPEL01: -1407><-144><-1008><-176><1><Sunbathed Cathedral
+SX_CHAPEL02: -1401><75><-982><0><1><Sunbathed Cathedral
+SX_CHAPEL03: -1347><204><-946><86><1><Sunbathed Cathedral
+SX_CHAPEL04: -1491><204><-1042><86><1><Sunbathed Cathedral
+SX_CHAPEL05: -1404><468><-984><168><1><Sunbathed Cathedral
+SX_S0: 4347><-669><2850><-496><2><
+SX_S02: -1323><-252><-930><-218><2><
+SX_S03: 330><-837><172><-608><1><
+SX_S04: 2649><-270><1718><-272><2><
+SX_A02: -1140><-231><-808><-204><0><Sunlit Scaffolds
+SX_A05: -741><-363><-526><-280><1><Sunlit Scaffolds
+SX_A06: -780><-135><-572><-148><1><Sunlit Scaffolds
+SX_A07: 1203><-153><766><-152><0><Sunlit Scaffolds
+SX_A09: 246><-582><116><-446><0><Sunlit Scaffolds
+SX_A10: 315><-252><156><-218><0><Sunlit Scaffolds
+SX_A11: -714><-486><-524><-362><1><Sunlit Scaffolds
+SX_A12: -717><-211.5><-530><-206><0><Sunlit Scaffolds
+SX_A13: -511.5><-240><-390><-212><0><Sunlit Scaffolds
+SX_A14: -1116><-285><-792><-240><1><Sunlit Scaffolds
+SX_A15: 1281><-606><806><-454><1><Sunlit Scaffolds
+SX_A19: -153><-747><-144><-548><2><Sunlit Scaffolds
+SX_A20: 1275><-669><792><-496><0><Sunlit Scaffolds
+SX_A21: 1107><-666><690><-494><0><Sunlit Scaffolds
+SX_A22: -447><-456><-346><-354><1><Sunlit Scaffolds
+SX_A23: -138><-603><-140><-458><2><Sunlit Scaffolds
+SX_A24: 483><-759><274><-556><1><Sunlit Scaffolds
+SX_A26: 1647><-561><1050><-424><1><Sunlit Scaffolds
+SX_ALINK: 339><-732><178><-538><1><Sunlit Scaffolds
+SX_B03: 570><-231><308><-242><0><Sunlit Scaffolds
+SX_B04: -220.5><-238.5><-252><-212><0><Sunlit Scaffolds
+SX_B05: 111><-262.5><6><-268><0><Sunlit Scaffolds
+SX_B06: 210><-450><28><-350><0><Sunlit Scaffolds
+SX_B07: -825><15><-652><-30><1><Sunlit Scaffolds
+SX_B08: 627><-429><322><-336><0><Sunlit Scaffolds
+SX_B11: 1263><-477><782><-412><0><Sunlit Scaffolds
+SX_B12: 1479><-720><892><-530><1><Sunlit Scaffolds
+SX_B13: 486><-1056><276><-784><1><Sunlit Scaffolds
+SX_B14: 1533><-900><980><-700><1><Sunlit Scaffolds
+SX_B15: 1515><-1170><988><-866><1><Sunlit Scaffolds
+SX_B16: 2628><-543><1700><-458><2><Sunlit Scaffolds
+SX_C01: 963><-282><458><-246><0><Sunlit Scaffolds
+SX_C02: -25.5><-448.5><-160><-356><1><Sunlit Scaffolds
+SX_C03: -957><-99><-800><-122><0><Sunlit Scaffolds
+SX_BGINS: 2121><-585><1152><-432><2><Sunlit Scaffolds
+SX_C05: 201><-768><-20><-550><2><Sunlit Scaffolds
+SX_C06: 2979><-570><1816><-430><2><Sunlit Scaffolds
+SX_C08: 3507><-570><2168><-430><2><
+SX_D01: 822><-747><350><-548><2><Sunlit Scaffolds
+SX_ENTRANCE: 4002><-570><2492><-430><2><
+SX_EXIT1: 861><-1695><526><-1264><1><
+SX_START: 4341><-558><2846><-422><2><
+SX_BIG1: 675><-1389><280><-1022><1><Sunlit Scaffolds
+SX_A04: 111><-256.5><0><-70><1><Sunlit Scaffolds
+SX_S05: 123><-346.5><0><-70><1><
+SX_C09: 1836><-1203><0><-70><1><Sunlit Scaffolds
+SX_C10: 1824><-1110><40><-112><1><Sunlit Scaffolds
+SX_S06: 1752><-1323><40><-110><2><Sunlit Scaffolds
+SX_C07: -1324.5><-502.5><0><-70><0><Sunbathed Cathedral
+SX_D04: -1116><-819><0><-320><0><Sunbathed Cathedral
+SX_C11: 1093.5><-1210.5><0><-70><1><Sunlit Scaffolds
+SX_D03: 1831.5><-1389><0><-152><1><
+SX_C12: -591><-1447.5><0><-70><0><Sunlit Scaffolds
+SX_EXIT2: -241.5><-1447.5><40><-194><0><Sunlit Scaffolds
+SX_TEMP0: 819><-1945.5><0><-70><0><
+OffScreenDen_SX: -150><12><0><-20><0><
+sx_E02: -435><-1266><0><-70><0><Sunlit Scaffolds
+Connection: SX_B02,SX_CHAPEL01,17,24,27,7,0,3
+Connection: SX_B02,SX_A14,124,27,13,7,1,3
+Connection: SX_B02,SX_A02,106,21,10,3,0,3
+Connection: SX_B02,SX_C07,56,6,72,28,3,1
+Connection: SX_CHAPEL01,SX_CHAPEL02,18,70,8,6,1,3
+Connection: SX_CHAPEL01,SX_S02,42,7,11,5,3,3
+Connection: SX_CHAPEL02,SX_CHAPEL04,11,22,37,8,2,3
+Connection: SX_CHAPEL02,SX_CHAPEL03,35,22,24,2,0,3
+Connection: SX_CHAPEL03,SX_CHAPEL05,9,29,40,7,1,3
+Connection: SX_CHAPEL04,SX_CHAPEL05,35,29,10,7,1,3
+Connection: SX_S0,SX_START,9,32,12,8,1,3
+Connection: SX_S03,SX_ALINK,25,27,17,11,1,3
+Connection: SX_S04,SX_B16,19,50,27,60,0,0
+Connection: SX_A02,SX_C03,10,30,11,19,1,3
+Connection: SX_A02,SX_A14,38,15,13,25,3,1
+Connection: SX_A05,SX_A06,18,34,30,8,1,3
+Connection: SX_A05,SX_A11,24,6,29,24,3,0
+Connection: SX_A06,SX_B07,39,34,78,21,0,3
+Connection: SX_A07,SX_C01,16,11,173,34,3,0
+Connection: SX_A09,SX_B06,40,30,89,5,0,3
+Connection: SX_A09,SX_C02,36,11,154,11,3,3
+Connection: SX_A09,SX_ALINK,40,15,17,26,0,1
+Connection: SX_A10,SX_B03,60,20,9,55,1,3
+Connection: SX_A10,SX_B05,5,21,50,40,3,3
+Connection: SX_A10,SX_B06,18,7,102,17,3,3
+Connection: SX_A11,SX_A22,34,15,8,17,1,2
+Connection: SX_A12,SX_C03,6,13,148,10,3,2
+Connection: SX_A12,SX_A13,44,13,10,20,3,3
+Connection: SX_A13,SX_B04,50,20,8,22,3,3
+Connection: SX_A15,SX_B12,44,8,4,20,3,3
+Connection: SX_A15,SX_A21,4,12,30,14,3,0
+Connection: SX_A19,SX_A23,8,11,6,16,1,3
+Connection: SX_A19,SX_C05,52,14,8,23,3,3
+Connection: SX_A20,SX_B11,46,29,46,7,1,3
+Connection: SX_A20,SX_A21,4,17,36,21,1,3
+Connection: SX_A21,SX_D01,11,21,197,29,3,1
+Connection: SX_A22,SX_C02,43,14,9,18,0,3
+Connection: SX_A23,SX_C02,27,34,45,9,3,1
+Connection: SX_A24,SX_ALINK,12,20,32,26,2,1
+Connection: SX_A24,SX_B13,34,8,32,57,3,3
+Connection: SX_A26,SX_BGINS,27,20,19,16,3,2
+Connection: SX_A26,SX_B12,21,20,104,18,3,1
+Connection: SX_B03,SX_C01,61,55,36,32,3,1
+Connection: SX_B03,SX_B08,31,21,7,27,3,0
+Connection: SX_B04,SX_B05,107,22,14,30,3,0
+Connection: SX_B05,SX_A04,23,58,2,24,3,1
+Connection: SX_B05,SX_B06,38,14,34,17,1,3
+Connection: SX_B06,SX_A04,40,17,45,18,3,0
+Connection: SX_B07,SX_C03,22,23,109,33,3,1
+Connection: SX_B08,SX_C01,92,27,36,18,1,3
+Connection: SX_B08,SX_D01,57,5,9,21,2,2
+Connection: SX_B11,SX_C01,14,68,173,17,1,0
+Connection: SX_B12,SX_B14,85,6,36,67,1,0
+Connection: SX_B13,SX_BIG1,32,22,20,66,1,3
+Connection: SX_B14,SX_B15,8,14,12,71,3,2
+Connection: SX_B14,SX_C10,41,5,9,29,2,2
+Connection: SX_B15,SX_C10,44,24,9,10,0,2
+Connection: SX_B15,SX_C09,44,22,16,25,0,2
+Connection: SX_B16,SX_BGINS,5,37,256,25,3,0
+Connection: SX_B16,SX_C06,43,37,30,16,1,3
+Connection: SX_C05,SX_D01,164,13,9,15,3,2
+Connection: SX_C06,SX_C08,153,16,30,16,3,3
+Connection: SX_C08,SX_ENTRANCE,152,20,8,20,0,2
+Connection: SX_ENTRANCE,SX_START,167,16,3,12,0,2
+Connection: SX_EXIT1,SX_BIG1,18,103,156,14,2,3
+Connection: SX_EXIT1,SX_TEMP0,21,16,35,26,3,1
+Connection: SX_BIG1,SX_C11,156,72,19,15,1,2
+Connection: SX_A04,SX_S05,6,8,11,31,3,2
+Connection: SX_C09,SX_C11,16,9,145,15,2,0
+Connection: SX_C09,SX_D03,141,9,121,66,0,1
+Connection: SX_C10,SX_D03,127,18,88,66,3,1
+Connection: SX_S06,SX_D03,24,25,27,66,1,1
+Connection: SX_C07,SX_D04,139,9,4,146,3,2
+Connection: SX_C12,sx_E02,19,27,9,3,1,3
+Connection: SX_C12,SX_EXIT2,125,26,9,65,1,2
+Connection: SX_EXIT2,sx_E02,84,64,182,9,1,3
