@@ -1,0 +1,17 @@
+{
+	"id": "lostsoulselect",
+	"scene_folder": "scenes/slugcat - lostsoul",
+	"images": [
+		{ "name": "bg5", "pos": [432, 203], "depth": 3.7, "shader": "Basic" },
+		{ "name": "specks4",    "pos": [535, 357], "depth": 2.8, "shader": "Basic" },
+		{ "name": "vines3",    "pos": [430, 425], "depth": 2.2, "shader": "Basic" },
+		{ "name": "bgplants2",    "pos": [452, 263], "depth": 2.0, "shader": "Basic" },
+		{ "name": "slug1",    "pos": [450, 205], "depth": 1.8, "shader": "Basic" },
+		{ "name": "fgplants0",    "pos": [379, 122], "depth": 1.5, "shader": "Basic" }
+	],
+	"idle_depths": [ 2.8 ],
+	"glow_pos": [688, 484],
+	"mark_pos": [689, 583],
+	"select_menu_pos": [0, 0],
+	"slugcat_depth": 1.8
+} 
