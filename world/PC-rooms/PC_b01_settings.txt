@@ -1,0 +1,4 @@
+Template: PC_SettingsTemplate_Outside
+Palette: 5
+Effects: PixelShift-1-60-60, 
+FadePalette: 55, 0.1195652

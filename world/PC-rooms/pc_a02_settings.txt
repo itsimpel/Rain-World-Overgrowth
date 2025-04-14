@@ -1,0 +1,2 @@
+Template: PC_SettingsTemplate_Outside
+Palette: 5

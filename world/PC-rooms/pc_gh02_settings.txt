@@ -1,0 +1,9 @@
+Template: PC_SettingsTemplate_Greenhouse
+WaveAmplitude: 0.173998
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0.2029976
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 0
+PlacedObjects: SteamPipe><352.5367><323.0336><12.27264~96.79843, SteamPipe><492.6059><116.0131><-17.07501~97.86563, SteamPipe><332.4886><142.2615><69.90076~104.2687, SteamPipe><510.1545><330.9326><-33.08282~56.77893, SteamPipe><330.5235><429.2915><63.49768~93.06329, 
+FadePalette: 74, 0.7796025

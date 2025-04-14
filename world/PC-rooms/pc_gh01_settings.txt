@@ -1,0 +1,4 @@
+Template: PC_SettingsTemplate_Outside
+Effects: HeatWave-0.1333985-50-50, 
+PlacedObjects: SteamPipe><578.0999><204.6685><12.80627~129.8812, SteamPipe><458.1826><198.2428><-20.81018~82.92502, 
+FadePalette: 74, 0.7343581

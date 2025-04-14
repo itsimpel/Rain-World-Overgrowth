@@ -1,0 +1,3 @@
+Template: PC_SettingsTemplate_Outside
+EffectColorA: 2
+EffectColorB: 7

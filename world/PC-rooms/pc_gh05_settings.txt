@@ -1,0 +1,4 @@
+Template: PC_SettingsTemplate_Greenhouse
+WaveAmplitude: 0.02319966
+SecondWaveAmplitude: 0
+FadePalette: 74, 0.7829908, 0.7887905

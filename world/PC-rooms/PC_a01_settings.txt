@@ -1,0 +1,2 @@
+Template: PC_SettingsTemplate_Outside
+FadePalette: 55, 0.1195652
