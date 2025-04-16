@@ -1,0 +1,7 @@
+Grime: 0.3202021
+Palette: 21
+EffectColorA: 3
+EffectColorB: 2
+Effects: Bloom-0.6462041-20-20, Desaturation-0-30-30, 
+PlacedObjects: LightBeam><390.9811><214.622><-84.84137~363.7332~43.11011~366.4667~458.871~-3.733322~-465.2937~25.06664~0.4304607~0.1387313~0~1~None~0~0, LightSource><344.6825><531.5818><0.3043478~Environment~25~129~50~86.60254~1~1~None~0~0, 
+FadePalette: 42, 0.4664063
