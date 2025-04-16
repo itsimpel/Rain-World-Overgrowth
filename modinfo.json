@@ -8,5 +8,5 @@
     "requirements": ["regionkit", "slime-cubed.slugbase", "crs"],
     "requirements_names": ["RegionKit", "SlugBase", "CRS"],
     "checksum_override_version": false,
-    "tags": ["Regions"]
+    "tags": ["Regions", "Campaigns"]
 }
