@@ -1,0 +1,21 @@
+batDepleteCyclesMin: 4
+batDepleteCyclesMax: 9
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+batsPerActiveSwarmRoom: 23
+batsPerInactiveSwarmRoom: 4
+overseersSpawnChance: 0.8
+overseersMin: 1
+overseersMax: 3
+playerGuideOverseerSpawnChance: 1
+kelpColor: 0.73, 0.14, 0.36
+albinos: 0
+blackSalamanderChance: 0.34
+slugPupSpawnChance: 0
+glacialWasteland: 0
+earlyCycleChance: 0.32
+earlyCycleFloodChance: 0.46
+
+Room Setting Templates: Upper, Lower
+Subregion: Underside
+Subregion: Deep Temple
