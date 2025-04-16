@@ -1,0 +1,9 @@
+Template: sx_settingstemplate_outside
+Clouds: 0.02173913
+Palette: 95
+EffectColorA: 3
+EffectColorB: 2
+Effects: SkyBloom-0.918801-90.96796-6.133335, 
+PlacedObjects: LightBeam><1656.25><76.30031><-204.9~727.4667~-10.69138~725.8667~871.8727~70.39999~-300.4133~52.26663~0.1506026~0.1159986~1~1~None~0~0, LightSource><2536.475><106.8431><0.5418051~Environment~35.21716~322.4~-420.0961~317.0025~1~1~None~0~0, 
+FadePalette: 54, 0.5, 0.5
+BackgroundType: AtC_Default_MSC

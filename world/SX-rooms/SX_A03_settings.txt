@@ -1,0 +1,4 @@
+Palette: 95
+EffectColorA: 3
+EffectColorB: 2
+Effects: Darkness-0.3015964-20-20, 

@@ -1,0 +1,2 @@
+PlacedObjects: BlinkingFlower><330.9446><382.0812><, BlinkingFlower><660.8153><371.2841><, LightSource><280.8778><343.5034><0.3098078~Environment~78.43829~234.9333~50~86.60254~1~1~None~0~0, 
+FadePalette: 54, 0.5

@@ -1,0 +1,5 @@
+Palette: 95
+EffectColorA: 3
+EffectColorB: 2
+PlacedObjects: LightSource><706.1038><129.0571><0.2402092~Environment~6.403137~334.6667~50~86.60254~1~1~Fade~0~0, 
+FadePalette: 54, 0.4021739

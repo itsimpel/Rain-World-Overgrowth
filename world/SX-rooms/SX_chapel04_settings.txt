@@ -1,5 +1,6 @@
-Template: SX_SettingsTemplate_Outside
+Template: sx_settingstemplate_outside
 Effects: SkyBloom-1-20-20, 
+PlacedObjects: LightBeam><766.0474><-19.15585><-243.8524~749.8667~-200.6508~747.2~281.1844~94.9333~-939.125~164.2667~0.1042031~0~1~1~None~0~0, LightBeam><185.3855><-22.34339><56.02734~755.2~256.1055~746.1334~402.3102~-13.86667~-354.8398~16~0.3130012~0~1~1~None~0~0, 
 FadePalette: 54, 0.5
 BackgroundOffset: 0,326.0869
 BackgroundType: AtC_Default_MSC

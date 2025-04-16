@@ -1,6 +1,7 @@
-Template: SX_SettingsTemplate_Outside
+Template: sx_settingstemplate_outside
 Palette: 54
 EffectColorA: 3
 EffectColorB: 2
 Effects: SkyBloom-1-299-106, 
+PlacedObjects: LightBeam><330.7487><825.9239><-251.3227~754.6667~-51.77811~758.4~591.736~-2.666667~-310.018~66.13335~0.1332031~0.1971976~0.5625934~1~None~0~0, 
 FadePalette: 95, 0.6086956, 0.6086956

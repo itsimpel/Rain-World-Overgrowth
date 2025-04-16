@@ -1,0 +1,4 @@
+Template: SX_SettingsTemplate_Outside
+Palette: 95
+EffectColorA: 3
+EffectColorB: 2

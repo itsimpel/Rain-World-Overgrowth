@@ -1,0 +1,6 @@
+Template: SX_SettingsTemplate_Outside
+Grime: 0.2738024
+Palette: 95
+EffectColorA: 3
+EffectColorB: 2
+Effects: Darkness-0-20-20, 

@@ -1,0 +1,4 @@
+Template: SX_SettingsTemplate_Outside
+Clouds: 0.01086957
+Grime: 0.2541693
+Effects: Wasp-0.3478261-30-30, Ant-0.3586957-40-40, 

@@ -1,0 +1,3 @@
+Palette: 95
+EffectColorA: 3
+EffectColorB: 2

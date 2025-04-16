@@ -1,0 +1,2 @@
+Template: SX_SettingsTemplate_Outside
+PlacedObjects: DangleFruit><118.1384><639.1444><0~0~2~3, DangleFruit><147.903><647.3788><0~0~2~3, DangleFruit><853.0682><1114.583><0~0~2~3, DangleFruit><878.4048><1169.574><0~0~2~3, 

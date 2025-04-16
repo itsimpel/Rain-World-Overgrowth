@@ -1,0 +1,5 @@
+Template: SX_SettingsTemplate_Outside
+Clouds: 0.0326087
+Grime: 0.1346041
+Palette: 95
+Effects: SkyBloom-0.2065217-20-20, 

@@ -1,0 +1,2 @@
+Template: SX_SettingsTemplate_Outside
+PlacedObjects: DataPearl><741.9571><370.67><44.28821~64~0~0~Misc~0, DandelionPatch><211.866><330.9862><0~100, 

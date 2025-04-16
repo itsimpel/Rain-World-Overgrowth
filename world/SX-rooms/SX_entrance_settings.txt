@@ -1,3 +1,3 @@
-Template: SX_SettingsTemplate_Inside
 Effects: Ant-0-20-20, Wasp-0-276-76, 
+PlacedObjects: LightSource><2396.314><384.0727><1~Environment~38~171~50~86.60254~1~0~None~0~0, LightSource><3040.949><379.727><1~Environment~1~124~50~86.60254~1~0~None~0~0, LightSource><2075.564><349.0743><1~Environment~1~135~50~86.60254~1~0~None~0~0, LightSource><638.3005><371.7636><0.2826092~Environment~6~133~50~86.60254~1~1~None~0~0, LightSource><782.8584><385.8319><0.2717391~Environment~6~149~164~-29.39746~1~1~None~0~0, 
 FadePalette: 6, 0.8043478, 0.6086956, 1

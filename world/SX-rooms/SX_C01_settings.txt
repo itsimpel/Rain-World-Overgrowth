@@ -1,0 +1,9 @@
+Template: SX_SettingsTemplate_Outside
+Clouds: 0.04347826
+Palette: 95
+EffectColorA: 3
+EffectColorB: 2
+Effects: Dustpuffs-1-60-60, 
+PlacedObjects: DandelionPatch><1060.647><320.3287><0~100, 
+BackgroundOffset: 0,-217.3913
+BackgroundType: ATC_OE_Spire

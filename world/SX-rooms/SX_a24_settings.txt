@@ -1,0 +1,2 @@
+Effects: Darkness-0.3043478-40-40, SkyAndLightBloom-0.01086957-50-50, 
+PlacedObjects: LightSource><461.5778><384.6402><0.3562085~Environment~29.88129~245.6~50~86.60254~1~1~None~0~0, 

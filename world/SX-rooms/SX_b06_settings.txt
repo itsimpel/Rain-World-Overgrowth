@@ -1,0 +1,4 @@
+Template: SX_SettingsTemplate_Outside
+EffectColorB: 2
+PlacedObjects: DandelionPatch><1484.243><376.0475><0~100, DandelionPatch><2127.108><294.1471><-1.60083~199.7334, BlinkingFlower><1269.158><300.9183><, FirecrackerPlant><1066.056><362.2956><0~0~2~3, DangleFruit><1047.251><265.4969><0~0~2~3, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><718.756><487.3679><0.378201><1, OMNI><AM_ENV-Forest.ogg><663.7016><547.9671><0.7261969><0.8851618, OMNI><AM_ENV-Woods.ogg><728.1377><369.0121><0.5998051><1, 

@@ -1,0 +1,1 @@
+Template: SX_SettingsTemplate_Outside

@@ -1,0 +1,2 @@
+Template: SX_SettingsTemplate_Outside
+Palette: 95
