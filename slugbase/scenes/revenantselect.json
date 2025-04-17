@@ -1,0 +1,16 @@
+{
+	"id": "revenantselect",
+	"scene_folder": "scenes/slugcat - revenant",
+	"images": [
+		{ "name": "5", "pos": [380, 193], "depth": 3.7, "shader": "Basic" },
+		{ "name": "4",    "pos": [415, 220], "depth": 3.3, "shader": "Basic" },
+		{ "name": "3",    "pos": [410, 210], "depth": 2.7, "shader": "Basic" },
+		{ "name": "2",    "pos": [388, 210], "depth": 2.3, "shader": "Basic" },
+		{ "name": "1",    "pos": [354, 202], "depth": 1.6, "shader": "Basic" }
+	],
+	"idle_depths": [ 2.8 ],
+	"glow_pos": [688, 484],
+	"mark_pos": [689, 583],
+	"select_menu_pos": [0, 0],
+	"slugcat_depth": 1.8
+} 

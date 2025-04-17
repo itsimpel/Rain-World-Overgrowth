@@ -1,0 +1,36 @@
+{
+  "id": "therevenant",
+  "name": "The Revenant",
+  "description": "A creature that has long outlasted its stay in the cycle. Explore a pocket of life in a cold, faded world.",
+  "features": {
+    "the_mark": true,
+    "intro_slideshow": "revenantintro",
+    "color": "50a17a",
+    "select_menu_scene": "revenantselect",
+    "custom_colors": [
+      { "name": "Body", "story": "50a17a" },
+      { "name": "Eyes", "story": "000602" },
+    ],
+    "start_room": "SX_S0",
+    "walk_speed": 1.4,
+    "tunnel_speed": 1.6,
+    "climb_speed": 1.6,
+    "weight": 1.3,
+    "lung_capacity": 3.0,
+    "throw_skill": 2,
+    "food_min": 6,
+    "food_max": 7,
+    "alignments": {
+     "Scavengers": { "like": 0.7, "strength": 0.3 }
+    },
+    "diet": {
+     "base": "White",
+     "corpses": 1,
+     "plants": 0.5,
+     "meat": 1,
+     "overrides": {
+      "Caramel": 1.5,
+     }
+    }
+  }
+}
