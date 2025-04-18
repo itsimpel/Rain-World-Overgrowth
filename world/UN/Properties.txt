@@ -16,6 +16,6 @@ glacialWasteland: 0
 earlyCycleChance: 0.32
 earlyCycleFloodChance: 0.46
 
-Room Setting Templates: Upper, Lower
+Room Setting Templates: Cave, Deep
 Subregion: Underside
 Subregion: Deep Temple
