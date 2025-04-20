@@ -14,8 +14,8 @@ BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.5
 RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
-Palette: 21
+Palette: 1123
 EffectColorA: 13
 EffectColorB: 2
 Effects: Bloom-0.5451937-20-20, Desaturation-0.1413043-30-30, 
-FadePalette: 42, 0.4639946
+FadePalette: 22, 0.3586957

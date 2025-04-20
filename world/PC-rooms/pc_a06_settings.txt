@@ -6,4 +6,4 @@ SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0
 Grime: 0.1304348
-PlacedObjects: FluxWaterfall><220><580><2~0.5~D~0~0, FluxDrain><220><120><2~0.5~D~0~0, WaterCycleTop><305.8035><334.7128><, WaterCycleBottom><236.1655><152.4313><, 
+PlacedObjects: FluxWaterfall><220><580><2~0.5~D~0~0, FluxDrain><220><120><2~0.5~D~0~0, WaterCycleTop><305.8035><334.7128><, WaterCycleBottom><236.1655><152.4313><, CustomDecal><136.6192><194.5987><-19~420~632~466~768~161~0~0~0~1~0~greybones~0.1956524~0.9891304~0.5000002~0.8913044~0.3260872~1~0.1739133~0.5434784, 

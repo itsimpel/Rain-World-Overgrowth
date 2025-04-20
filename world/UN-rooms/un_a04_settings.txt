@@ -1,2 +1,2 @@
-Palette: 1123
+Template: un_settingstemplate_deep
 FadePalette: 22, 0.3586957

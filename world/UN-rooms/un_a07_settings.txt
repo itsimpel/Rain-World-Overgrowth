@@ -1,0 +1,1 @@
+PlacedObjects: KarmaFlower><481.1929><321.1917><0~0~5~7, DangleFruit><431.9499><435.9951><0~0~2~3, DangleFruit><455.5779><403.1021><0~0~2~3, 

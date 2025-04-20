@@ -1,3 +1,4 @@
-Template: SX_SettingsTemplate_Outside
+Template: sx_settingstemplate_outside
 RandomItemDensity: 1
 RandomItemSpearChance: 0.4609969
+PlacedObjects: CustomDecal><106.949><145.4801><-48~413~506~548~252~-114~47.99997~80~0~1~0~greybones~0.1086956~1~0.0326087~1~0.1521739~1~0~1, CustomDecal><825.7><131.5042><-209~281~3~409~572~364~-455~-92~0~1~0~angularwhiteols~0.04347826~1~0.09782609~1~0.09782609~1~0.1956522~1, CustomDecal><1904.447><125.5356><-194~315~280~573~456~280~-576~207~0~1~0~bluebrownbutblackwhite~0~1~0.2065217~1~0.1630435~1~0~1, PlateTree><1172.69><167.4386><0~100, 
