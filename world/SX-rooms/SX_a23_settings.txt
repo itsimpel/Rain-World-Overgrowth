@@ -1,2 +1,2 @@
-Template: SX_SettingsTemplate_Outside
-PlacedObjects: DandelionPatch><232.7881><298.3036><287~47, Rainbow><973.8567><365.4192><172~200~0~0~0,1,0,1,0.7934783,0.15, 
+Template: sx_settingstemplate_outside
+PlacedObjects: DandelionPatch><232.7881><298.3036><287~47, Rainbow><973.8567><365.4192><172~200~0~0~0,1,0,1,0.7934783,0.15, LightSource><-21.18161><675.6662><0.5108696~Environment~811~-428~-89~-222.3975~1~1~None~0~0, 

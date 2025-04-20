@@ -1,3 +1,3 @@
-Template: SX_SettingsTemplate_Outside
+Template: sx_settingstemplate_outside
 Effects: SkyBloom-1-20-20, 
-PlacedObjects: DandelionPatch><1343.1><72.36799><0~100, DangleFruit><2002.64><408.1068><0~0~2~3, DangleFruit><1981.042><429.9455><0~0~2~3, Mushroom><1270.078><58.89863><-31~-92~2~3, DandelionPatch><1183.551><263.7311><193~14, CustomDecal><1788.666><470.1814><-3~175~352~180~191~-31~-336~4~0~1~0~hoko can~0~0.1413043~0.4565217~0.07608695~0.4565217~0.07608695~0.4565217~0.07608695, 
+PlacedObjects: DandelionPatch><1343.1><72.36799><0~100, DangleFruit><2002.64><408.1068><0~0~2~3, DangleFruit><1981.042><429.9455><0~0~2~3, Mushroom><1270.078><58.89863><-31~-92~2~3, DandelionPatch><1183.551><263.7311><193~14, CustomDecal><1847.666><13.1814><-673~688~330~725~191~-31~-667~55~0~1~0~greybones~0.1086956~1~0.1086956~1~0.1086956~1~0.1086956~1, LightSource><534.788><460.3647><0.5326087~Environment~-480~-356~50~86.60254~1~1~None~0~0, LightSource><1592.1><614.382><0.4347826~Environment~-463~-349~63~-167.3975~1~1~None~0~0, 

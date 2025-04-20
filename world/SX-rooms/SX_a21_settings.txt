@@ -1,3 +1,4 @@
-Effects: LightBurn-1-20-20, 
+Effects: LightBurn-1-285-136, 
+PlacedObjects: LightSource><470.1281><524.8464><0.3478261~Environment~229~-276~50~86.60254~1~1~None~0~0, 
 BackgroundOffset: 0,-1413.043
 BackgroundType: AtC_Default_MSC

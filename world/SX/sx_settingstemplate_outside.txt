@@ -17,5 +17,5 @@ WaterReflectionAlpha: 1
 Palette: 95
 EffectColorA: 3
 EffectColorB: 2
-Effects: SkyBloom-1-20-20, SkyDandelions-0.6739131-60-60, Ant-0.326087-375.4922-193.4667, Wasp-0.3043478-220.8883-116.2667, AboveCloudsView-1-110.5727-123.3333, 
+Effects: SkyBloom-1-20-20, SkyDandelions-0.6739131-60-60, Ant-0.326087-375.4922-193.4667, Wasp-0.3043478-220.8883-116.2667, 
 AmbientSounds: OMNI><AM_ENV-NatWind.ogg><718.756><487.3679><0.378201><1, OMNI><AM_ENV-Forest.ogg><663.7016><547.9671><0.7261969><0.8851618, OMNI><AM_ENV-Woods.ogg><728.1377><369.0121><0.5998051><1, 

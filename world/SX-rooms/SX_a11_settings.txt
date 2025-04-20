@@ -1,2 +1,3 @@
-Template: SX_SettingsTemplate_Outside
+Template: sx_settingstemplate_outside
+PlacedObjects: LightSource><-58.60727><573.8599><0.4565217~Environment~365~-478~50~86.60254~1~1~None~0~0, 
 Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>QK_01 - glimmering<eA>vol<eB>0.5217391<eA>prio<eB>0.75<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>0<eA>rest<eB>3<eA>fadeIn<eB>117.3913<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>208<tA>panPos<tB>215.9785<tB>348.865<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>509.6199<tB>274.1983<tA>handlePos<tB>-156.4811<tB>-126.022, 

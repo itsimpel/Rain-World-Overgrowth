@@ -1,4 +1,5 @@
-Template: SX_SettingsTemplate_Outside
+Template: sx_settingstemplate_outside
+Palette: 95
 Effects: SkyBloom-1-20-20, 
 PlacedObjects: CustomDecal><2456.305><393.0578><-14~313~323~317~323~-7~330~-25~0~1~0~maxkarmaprayer1~0.5434783~0.1521739~1~0.1521739~0~0.1521739~1~0.1521739, DandelionPatch><557.8951><173.6123><203~93, CustomDecal><519.8953><-44.11255><-21~226~289~209~322~-5~-311~261~0~0.1956522~0~maxkarmaprayer1~1~0.09782609~0~0.09782609~0.5543478~0.09782609~0~0.09782609, 
-FadePalette: 54, 0.5, 0.5, 0.5
+FadePalette: 54, 0.5434783, 0.5108696, 0.5326087

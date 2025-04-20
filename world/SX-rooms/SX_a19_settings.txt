@@ -1,1 +1,2 @@
-Template: SX_SettingsTemplate_Outside
+Template: sx_settingstemplate_outside
+PlacedObjects: LightSource><229.3733><594.8425><0.5108696~Environment~278~-603~-82~-175.3975~1~1~None~0~0, LightSource><759.812><557.4317><0.4782609~Environment~122~-403~50~86.60254~1~1~None~0~0, 

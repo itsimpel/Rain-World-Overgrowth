@@ -1,2 +1,3 @@
 DangerType: Flood
 Grime: 0.3369565
+PlacedObjects: LightSource><193.5753><425.8147><0.3586957~Environment~345~29~50~86.60254~1~1~None~0~0, 
