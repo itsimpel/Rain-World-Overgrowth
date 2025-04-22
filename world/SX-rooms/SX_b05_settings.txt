@@ -1,3 +1,4 @@
 Template: sx_settingstemplate_outside
+Clouds: 0.01739966
 PlacedObjects: DandelionPatch><134.8097><530.4385><0~100, DandelionPatch><1140.165><537.8651><4~52, 
 AmbientSounds: SPOT><SO_WAT-Pour.ogg><772.2914><477.9844><0.5><1><84.98669><521.7844><262.9236><-146.822><0><0.1, SPOT><SO_WAT-Pour.ogg><735.4954><471.6924><0.5><1><1166.603><528.8257><-215.71><-226.822><0><0.1, 
