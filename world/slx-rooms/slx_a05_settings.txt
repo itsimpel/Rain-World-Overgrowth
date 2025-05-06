@@ -1,0 +1,2 @@
+Template: slx_settingstemplate_outside
+PlacedObjects: LightSource><38.91794><395.7571><0.402607~Environment~493.5742~-419.1867~50~86.60254~1~1~None~0~0, LightSource><867.073><425.5506><0.4374071~Environment~-387.9226~-391.4399~50~86.60254~1~1~None~0~0, 

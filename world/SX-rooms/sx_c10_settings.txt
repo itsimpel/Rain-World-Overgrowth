@@ -1,1 +1,1 @@
-Template: SX_SettingsTemplate_Outside
+Template: sx_settingstemplate_outside

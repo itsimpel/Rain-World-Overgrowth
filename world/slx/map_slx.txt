@@ -1,0 +1,62 @@
+GATE_SLX_CY: 615><-1123.5><615><-1123.5><0><
+SLX_SPIRE: 1026><-892.5><1026><-892.5><0><Sunlit Scaffolds
+SLX_B03: 1291.5><-996><1291.5><-996><0><Sunlit Scaffolds
+SLX_A05: 1056><-997.5><1056><-997.5><0><Sunlit Scaffolds
+OFFSCREENDENSLX: 1386><-736.5><1386><-736.5><0><
+SLX_A02B: 705><-610.5><705><-610.5><0><Sunlit Scaffolds
+SLX_2T: 702><-265.5><702><-265.5><0><
+SLX_SPIRE2: 738><31.5><738><31.5><0><
+SLX_3LEFT: 579><-502.5><579><-502.5><1><
+SLX_A06: 846><-400.5><846><-400.5><0><
+SLX_WING: 582><-19.5><582><-19.5><0><
+SLX_A07: 735><-64.5><735><-64.5><1><
+SLX_3RIGHT: 828><-508.5><828><-508.5><1><
+SLX_C01: 1179><-499.5><1179><-499.5><0><
+SLX_B04: 1600.5><-1000.5><1600.5><-1000.5><0><Sunlit Scaffolds
+SLX_TRANSITION: 702><-861><702><-861><0><Sunlit Scaffolds
+SLX_C03: 712.5><-496.5><712.5><-496.5><0><
+SLX_A09: 1545><-652.5><1545><-652.5><0><
+SLX_A08: 1497><-535.5><1497><-535.5><0><
+SLX_8AND9: 1533><-601.5><1533><-601.5><1><
+//FloodForge;ROOM|gate_slx_cy
+//FloodForge;ROOM|slx_spire
+//FloodForge;ROOM|slx_b03
+//FloodForge;ROOM|slx_a05
+//FloodForge;ROOM|offscreendenslx
+//FloodForge;ROOM|slx_a02b
+//FloodForge;ROOM|slx_2t
+//FloodForge;ROOM|slx_spire2
+//FloodForge;ROOM|slx_3left
+//FloodForge;ROOM|slx_a06
+//FloodForge;ROOM|slx_wing
+//FloodForge;ROOM|slx_a07
+//FloodForge;ROOM|slx_3right
+//FloodForge;ROOM|slx_c01
+//FloodForge;ROOM|slx_b04
+//FloodForge;ROOM|slx_transition
+//FloodForge;ROOM|slx_c03
+//FloodForge;ROOM|slx_a09
+//FloodForge;ROOM|slx_a08
+//FloodForge;ROOM|slx_8and9
+Connection: GATE_SLX_CY,SLX_TRANSITION,45,15,85,17,0,3
+Connection: SLX_SPIRE,SLX_A05,22,16,17,24,3,3
+Connection: SLX_B03,SLX_A05,15,9,36,24,3,3
+Connection: SLX_B03,SLX_B04,99,21,12,22,0,2
+Connection: SLX_A05,SLX_TRANSITION,12,9,148,8,3,3
+Connection: SLX_TRANSITION,SLX_A02B,103,110,36,6,3,3
+Connection: SLX_A02B,SLX_C03,36,27,83,6,3,3
+Connection: SLX_2T,SLX_A07,32,104,25,9,1,3
+Connection: SLX_2T,SLX_SPIRE2,39,104,37,7,1,3
+Connection: SLX_2T,SLX_C03,32,15,80,21,3,3
+Connection: SLX_2T,SLX_A06,39,15,8,12,3,3
+Connection: SLX_SPIRE2,SLX_WING,10,45,25,19,3,3
+Connection: SLX_SPIRE2,SLX_A07,19,11,20,18,0,2
+Connection: SLX_3LEFT,SLX_C03,38,21,71,21,0,3
+Connection: SLX_3LEFT,SLX_3RIGHT,44,17,12,17,0,2
+Connection: SLX_A06,SLX_3RIGHT,42,12,31,27,3,1
+Connection: SLX_WING,SLX_A07,35,19,20,24,3,2
+Connection: SLX_C03,SLX_C01,145,11,9,12,3,3
+Connection: SLX_C01,SLX_A08,143,12,10,11,3,3
+Connection: SLX_A09,SLX_8AND9,15,15,19,13,3,2
+Connection: SLX_A09,SLX_A08,28,12,39,12,3,3
+Connection: SLX_A08,SLX_8AND9,32,12,19,19,3,2
